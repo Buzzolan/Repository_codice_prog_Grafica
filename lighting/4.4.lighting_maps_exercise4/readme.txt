@@ -1,0 +1,1 @@
+Già implementato nel primo esercizio

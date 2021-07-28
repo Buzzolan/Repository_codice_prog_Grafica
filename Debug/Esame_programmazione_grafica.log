@@ -1,0 +1,16 @@
+﻿  glad.c
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwInit non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwTerminate non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwWindowHint non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwCreateWindow non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwWindowShouldClose non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwSetWindowShouldClose non risolto nella funzione "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwSetFramebufferSizeCallback non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwPollEvents non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwGetKey non risolto nella funzione "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwMakeContextCurrent non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwSwapBuffers non risolto nella funzione _main
+window.obj : error LNK2019: riferimento al simbolo esterno _glfwGetProcAddress non risolto nella funzione _main
+C:\Users\tomma\Documents\Università\Programmazione Grafica\Laboratorio\OpenGL\CommonLib\glfw3.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\tomma\Documents\Università\Programmazione Grafica\Laboratorio\OpenGL\CommonLib\assimpd.lib : warning LNK4272: il tipo 'x64' del computer della libreria è in conflitto con il tipo 'x86' del computer di destinazione
+C:\Users\tomma\Documents\Università\Programmazione Grafica\Esame\Esame_programmazione_grafica\Debug\Esame_programmazione_grafica.exe : fatal error LNK1120: 12 esterni non risolti
